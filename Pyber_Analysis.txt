@@ -1,0 +1,15 @@
+Pyber Data Analysis 
+
+JM Subbie 
+
+After review fo the Pyber data, three trends were observed:  
+
+1) The data shows that while there are more drivers, and rides per Urban city, there are generally lower average fares when compared to suburban and rural city types. 
+
+2) Rural rides were less frequent, but the average overall fare in these were greater than those in suburban and urban areas. 
+
+3) Urban business (total rides, total fares by city, and total number of drivers) were vastly greater than Suburban, and Rural cities. 
+
+Conclusion: 
+
+After an analysis of the data and trends, it's fairly clear that Pyber's Urban presence accounts for the bulk of the business. It stands to reason, that more people equals more rides, and more ultimately more rides than less populated areas. It also stands to reason that due to the compact nature of Urban areas, the commutes are shorter and cost less on average. This infers that there is a direct correlation between commute distance, population density, and frequency. For instance, some suburban areas have comparable number of drivers to some smaller urban areas, but the average suburban fare is higher. This would track if the rides themselves were longer than those in the the Urban counterparts. Being said, Suburban areas are less densely populated than Urban so the ride frequency is lower. 
